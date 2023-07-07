@@ -1,0 +1,28 @@
+.api-container {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+}
+
+.api-container h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.api-data {
+  margin-top: 20px;
+}
+
+.api-data ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.api-data li {
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+}
